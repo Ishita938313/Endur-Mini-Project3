@@ -1,2 +1,3 @@
-# EZHotel
-CS4125 - Hotel Management System
+# ZJM Hotel
+Hotel Management System
+Using H2 DB
