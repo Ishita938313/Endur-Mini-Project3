@@ -1,0 +1,13 @@
+#image {
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+    alignment: center;
+    margin: 2px;
+}
+
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
