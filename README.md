@@ -1,1 +1,2 @@
-"# Endur-Mini-Project3" 
+# EZHotel
+CS4125 - Hotel Management System
